@@ -1,0 +1,21 @@
+# Runtime state — never commit
+cache/
+watch_later/
+*.log
+script-opts/memo-history.log
+portable_config/cache/
+
+# Local binaries and personal files
+mpv.exe
+mpv.com
+ffmpeg.exe
+*.dll
+*.7z
+*.zip
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+*.swp
