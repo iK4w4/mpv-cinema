@@ -1,9 +1,5 @@
 # mpv-cinema
 
-[![YouTube](https://img.shields.io/badge/YouTube-@iK4w4-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@iK4w4)
-[![Telegram](https://img.shields.io/badge/Telegram-@iK4w4-26A5E4?logo=telegram&logoColor=white)](https://t.me/iK4w4)
-[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@AskKawaBot-26A5E4?logo=telegram&logoColor=white)](https://t.me/AskKawaBot)
-
 My personal mpv setup for Windows — a clean uosc interface, a
 speech waveform above the timeline, and upscaler profiles for
 anime and HD video. Fast by default: the heavy stuff (shaders,
@@ -13,6 +9,12 @@ No shuffle, no loop buttons, no music-player clutter. This is a
 video player, set up for watching videos.
 
 by iK4w4 ([@iK4w4](https://t.me/iK4w4))
+
+[![Release](https://img.shields.io/github/v/release/iK4w4/mpv-cinema)](https://github.com/iK4w4/mpv-cinema/releases) ![Platform](https://img.shields.io/badge/platform-Windows-333) ![Player](https://img.shields.io/badge/player-mpv_%C2%B7_uosc-007ec6) ![License](https://img.shields.io/badge/license-MIT-333)
+
+[![YouTube](https://img.shields.io/badge/YouTube-@iK4w4-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@iK4w4)
+[![Telegram](https://img.shields.io/badge/Telegram-@iK4w4-26A5E4?logo=telegram&logoColor=white)](https://t.me/iK4w4)
+[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@AskKawaBot-26A5E4?logo=telegram&logoColor=white)](https://t.me/AskKawaBot)
 
 ## Install
 
